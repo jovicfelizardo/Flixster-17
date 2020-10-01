@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/Container"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -26,7 +26,7 @@
         android:layout_marginTop="4dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:text=" "
-        android:textSize="30sp"
+        android:textSize="25sp"
         tools:text="Money Plane" />
 
     <TextView
